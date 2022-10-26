@@ -771,5 +771,3 @@ Here are some links to check out if you are interested in further testing:
 - [Best Practices for Developing Apache Kafka Applications on Confluent Cloud](https://assets.confluent.io/m/14397e757459a58d/original/20200205-WP-Best_Practices_for_Developing_Apache_Kafka_Applications_on_Confluent_Cloud.pdf)
 
 ***
-
-# tjx-workshop
