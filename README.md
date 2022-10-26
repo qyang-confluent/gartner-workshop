@@ -24,7 +24,7 @@ This workshop perfect for those looking to get started with Confluent Cloud and 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
 | Workshop Kickoff and Introductions|  10:00 - 10:30  | Brian Narajowski - Radian |
-| Review Radian Use Cases |  10:30 - 11:00  | TJX team |
+| Review Radian Use Cases |  10:30 - 11:00  | Radian team |
 | Break |  11:00 - 11:15  |  |
 | Confluent Introduction and <br/> Hands-on Workshop Demo |  11:15 - 12:30  | Ravi Appalla - Confluent |
 | Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
