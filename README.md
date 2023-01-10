@@ -16,7 +16,7 @@ Today’s modern customers value an end-to-end real-time experience. Businesses 
 
 We welcome you to join Confluent team in a workshop to get started with data in motion. Each session includes a virtual guided workshop on how you can use Confluent Cloud to explore event-driven architectures and how these measured and well-informed architectural decisions result in successful outcomes. 
 
-This workshop perfect for those looking to get started with Confluent Cloud and build the foundation of your use case with our experienced engineers. 
+This workshop is perfect for those looking to get started with Confluent Cloud and build the foundation of your use case with our experienced engineers. This repository also represents a powerful leave behind so your team can get their hands on keyboards and begin building clusters themselves. 
 
 
 ## Workshop Agenda - Day 1:
