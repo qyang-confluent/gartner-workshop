@@ -26,12 +26,13 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | Workshop Kickoff and Introductions|  10:00 - 10:30  | Sheetz |
 | Review Sheetz Use Cases |  10:30 - 11:00  | Sheetz team |
 | Break |  11:00 - 11:15  |  |
-| Confluent Introduction and <br/> Hands-on Workshop Demo |  11:15 - 12:30  | Ravi Appalla - Confluent |
+| Confluent Architecture Review and Optimal Use Case Identification |  11:15 - 12:30  | Ravi Appalla/Greg Trout - Confluent |
 | Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
-| Workshop Environment setup |  1:30 - 1:45  | Sheetz team |
-| Hands-on Workshop |  2:00 - 3:00  | Hands-on labs - Sheetz team |
-| POC Success Criteria |  3:00 - 3:30  |  Confluent and Sheetz Team  |
-| Wrap-up and next steps |  3:30 - 4:00  |  Confluent Team  |
+| Hands on Workshop Demo |  1:30 - 2:00  | Ravi Appalla/Greg Trout - Confluent |
+| Workshop Environment Setup |  2:00 - 2:15  | Confluent and Sheetz Team |
+| Hands on Workshop |  2:15 - 3:15  |  Confluent and Sheetz Team  |
+| POC Success Criteria |  3:15 - 3:30  |  Confluent Team  |
+| Wrap Up and Next Steps |  3:30 - 3:45  |  Confluent Team  |
 
 
 ## Topics Covered in the Demo and Workshop:
