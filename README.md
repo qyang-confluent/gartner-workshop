@@ -6,9 +6,9 @@
     <img src="images/confluent.png" width=50% height=50%>
 </div>
 
-# <div align="center">Sheetz | Confluent Workshop repository</div>
+# <div align="center">Gartner | Confluent Workshop repository</div>
 
-This repository contains workshop content for Sheetz to be held on <b>insert date</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
+This repository contains workshop content for Gartner to be held on <b>insert date</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
 ## Introduction
 
@@ -23,14 +23,14 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
-| Workshop Kickoff and Introductions|  10:00 - 10:30  | Sheetz |
-| Review Sheetz Use Cases |  10:30 - 11:00  | Sheetz team |
+| Workshop Kickoff and Introductions|  10:00 - 10:30  | Gartner |
+| Review Gartner Use Cases |  10:30 - 11:00  | Gartner team |
 | Break |  11:00 - 11:15  |  |
-| Confluent Architecture Review and Optimal Use Case Identification |  11:15 - 12:30  | Ravi Appalla/Greg Trout - Confluent |
+| Confluent Architecture Review and Optimal Use Case Identification |  11:15 - 12:30  | Ravi Appalla/Qi Yang - Confluent |
 | Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
-| Hands on Workshop Demo |  1:30 - 2:00  | Ravi Appalla/Greg Trout - Confluent |
-| Workshop Environment Setup |  2:00 - 2:15  | Confluent and Sheetz Team |
-| Hands on Workshop |  2:15 - 3:15  |  Confluent and Sheetz Team  |
+| Hands on Workshop Demo |  1:30 - 2:00  | Ravi Appalla/Qi Yang - Confluent |
+| Workshop Environment Setup |  2:00 - 2:15  | Confluent and Gartner Team |
+| Hands on Workshop |  2:15 - 3:15  |  Confluent and Gartner Team  |
 | POC Success Criteria |  3:15 - 3:30  |  Confluent Team  |
 | Wrap Up and Next Steps |  3:30 - 3:45  |  Confluent Team  |
 
