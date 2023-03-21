@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/sheetz.png" width=50% height=50%>
+    <img src="images/Gartner_logo.svg.png" width=50% height=50%>
 </div>
 
 <div align="center">
