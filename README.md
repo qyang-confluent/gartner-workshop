@@ -35,6 +35,15 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | POC Success Criteria |  3:15 - 3:30  |  Confluent Team  |
 | Wrap Up and Next Steps |  3:30 - 3:45  |  Confluent Team  |
 
+## Workshop Agenda - Day 2:
+
+| Topic | Time | Speaker |
+| --- | --- | --- |
+| MVP Evaluation Roadmap |  8:00 - 9:00  |  Gartner Team  |
+| Break |  9:00 - 9:15  |  |
+| Value Assessment |  9:15 - 10:00  |  Eric Langan  |
+| Stream Lineage and Data Governance |  10:00 - 11:00  | David Araujo, Staff Product Manager  |
+| Q&A and Workshop wrap-up |  11:00 - 12:00  | Eric Langan / Qi Yang - Confluent |
 
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
