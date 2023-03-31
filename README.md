@@ -23,17 +23,15 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 
 | Topic |  Time  | Speaker |
 | --- |  ---  | --- |
-| Workshop Kickoff and Introductions|  10:00 - 10:30  | Gartner |
-| Review Gartner Use Cases |  10:30 - 11:15  | Gartner team |
-| Break |  11:15 - 11:30  |  |
+| Workshop Kickoff and Introductions|  8:00 - 8:30  | Gartner |
+| Review Gartner Use Cases |  8:30 - 9:00  | Gartner team |
+| Break |  9:00-9:15  |  |
+| Confluent Architecture Review and Optimal Use Case Identification |  9:15 - 10:00  | Ravi Appalla/Qi Yang - Confluent |
+| Hands on Workshop Demo |  10:00 - 10:30  | Ravi Appalla/Qi Yang - Confluent |
+| Workshop Environment Setup |  10:00 - 10:15  | Confluent and Gartner Team |
+| Hands on Workshop |  10:15 - 11:30  |  Confluent and Gartner Team  |
 | Streaming with Confluent and Cluster Linking | 11:30 - 12:00 | Joseph Morais, Staff Partner Solutions Engineer |
-| Confluent Architecture Review and Optimal Use Case Identification |  12:00 - 12:30  | Ravi Appalla/Qi Yang - Confluent |
-| Lunch |  12:30 - 1:30  |
-| Hands on Workshop Demo |  1:30 - 2:00  | Ravi Appalla/Qi Yang - Confluent |
-| Workshop Environment Setup |  2:00 - 2:15  | Confluent and Gartner Team |
-| Hands on Workshop |  2:15 - 3:15  |  Confluent and Gartner Team  |
-| POC Success Criteria |  3:15 - 3:30  |  Confluent Team  |
-| Wrap Up and Next Steps |  3:30 - 3:45  |  Confluent Team  |
+| Wrap Up and Next Steps |  12:00 - 12:15  |  Confluent Team  |
 
 ## Workshop Agenda - Day 2:
 
