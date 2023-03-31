@@ -40,7 +40,7 @@ This workshop is perfect for those looking to get started with Confluent Cloud a
 | MVP Evaluation Roadmap |  8:00 - 9:00  |  Gartner Team  |
 | Break |  9:00 - 9:15  |  |
 | Value Assessment |  9:15 - 10:00  |  Eric Langan  |
-| Stream Lineage and Data Governance |  10:00 - 11:00  | David Araujo, Staff Product Manager  |
+| Stream Lineage and Data Governance |  10:00 - 11:00  | Vahid Fereydouny, Staff Product Manager  |
 | Q&A and Workshop wrap-up |  11:00 - 12:00  | Eric Langan / Qi Yang - Confluent |
 
 ## Topics Covered in the Demo and Workshop:
