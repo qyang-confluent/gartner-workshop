@@ -3,7 +3,7 @@
     <img src="images/confluent.png" width=50% height=50%>
 </div>
 
-# <div align="center">Gartner | Confluent Workshop repository</div>
+# <div align="center">Confluent Workshop repository</div>
 
 This repository contains workshop content for Gartner to be held on <b>insert date</b>. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
