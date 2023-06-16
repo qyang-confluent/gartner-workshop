@@ -16,29 +16,6 @@ We welcome you to join Confluent team in a workshop to get started with data in 
 This workshop is perfect for those looking to get started with Confluent Cloud and build the foundation of your use case with our experienced engineers. This repository also represents a powerful leave behind so your team can get their hands on keyboards and begin building clusters themselves. 
 
 
-## Workshop Agenda - Day 1:
-
-| Topic |  Time  | Speaker |
-| --- |  ---  | --- |
-| Workshop Kickoff and Introductions|  8:00 - 8:30  | Gartner |
-| Review Gartner Use Cases |  8:30 - 9:00  | Gartner team |
-| Break |  9:00-9:15  |  |
-| Hands on Workshop Demo |  9:15 - 10:00  | Ravi Appalla/Qi Yang - Confluent |
-| Workshop Environment Setup |  10:00 - 10:15  | Confluent and Gartner Team |
-| Hands on Workshop |  10:15 - 11:30  |  Confluent and Gartner Team  |
-| Streaming with Confluent and Cluster Linking | 11:30 - 12:00 | Joseph Morais, Staff Partner Solutions Engineer |
-| Wrap Up and Next Steps |  12:00 - 12:15  |  Confluent Team  |
-
-## Workshop Agenda - Day 2:
-
-| Topic | Time | Speaker |
-| --- | --- | --- |
-| Cluster Roll Out / Topology |  8:00 - 9:00  |  Dan Elliman - Confluent  |
-| Break |  9:00 - 9:15  |  |
-| Networking & Security |  9:15 - 10:00  |  Qi Yang - Confluent  |
-| Stream Lineage and Data Governance |  10:00 - 11:00  | Vahid Fereydouny, Staff Product Manager  |
-| Q&A and Workshop wrap-up |  11:00 - 12:00  | Eric Langan / Qi Yang - Confluent |
-
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
 2. [Create an Environment and Cluster](#step-2)
